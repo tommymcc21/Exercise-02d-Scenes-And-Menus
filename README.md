@@ -1,8 +1,11 @@
-# Exercise-02d-Scenes-And-Menus
+# Project 2
 
+(Used the work I did for this for my project 2)
 Exercise for MSCH-C220 Tommy McCullough
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+9/29/24
+Space Shooter
+Added in all the things needed for project 2, i used what ive been working on for the past 2 weeks inside the homework assignments.
+The keys W,A,and D move you around and you use the space bar to shoot at the rocks while avoiding the other ships that are trying to destroy you.
 
 ## Implementation
 
@@ -19,4 +22,4 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Tommy McCullough
